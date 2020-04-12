@@ -1,5 +1,4 @@
 const functions = require('firebase-functions');
-const ffmpeg = require('ffmpeg-static');
 
 // Create and Deploy Your First Cloud Functions
 // https://firebase.google.com/docs/functions/write-firebase-functions
