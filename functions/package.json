@@ -25,7 +25,7 @@
     "@sendgrid/mail": "6.4.0",
     "@sindresorhus/slugify": "^0.11.0",
     "@slack/webhook": "^5.0.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "azure-cognitiveservices-search": "^1.1.0-preview",
     "base-x": "^3.0.8",
     "canvas": "^2.6.1",
