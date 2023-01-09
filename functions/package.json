@@ -38,7 +38,7 @@
     "flake-idgen": "^1.1.2",
     "imagekit": "^3.0.3",
     "install": "0.13.0",
-    "luxon": "^1.22.0",
+    "luxon": "^2.5.2",
     "mp3-duration": "^1.1.0",
     "ms-rest-azure": "^3.0.0",
     "node-vibrant": "^3.1.5",
